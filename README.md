@@ -1,2 +1,1 @@
-# devops-netology
-devops-course
+YAHAAA BLYYAAA
